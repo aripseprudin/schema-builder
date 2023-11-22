@@ -32,14 +32,14 @@
     ],
     "require": {
         "ext-zip": "*",
-        "illuminate/filesystem": "^8.0",
-        "illuminate/http": "^8.0",
-        "illuminate/support": "^8.0",
-        "league/flysystem": "^1.0",
-        "league/flysystem-ziparchive": "^1.0"
+        "illuminate/filesystem": "^10.0",
+        "illuminate/http": "^10.0",
+        "illuminate/support": "^10.0",
+        "league/flysystem": "^3.0",
+        "league/flysystem-ziparchive": "^3.0"
     },
     "require-dev": {
-        "phpmd/phpmd": "^2.6"
+        "phpmd/phpmd": "^2.14"
     },
     "autoload": {
         "psr-4": {
