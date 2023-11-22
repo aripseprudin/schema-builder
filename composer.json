@@ -1,5 +1,5 @@
 {
-    "name": "noud/schema-builder",
+    "name": "aripseprudin/schema-builder",
     "description": "Schema designer & migration generator for laravel & lumen",
     "version": "1.3.2",
     "type": "library",
